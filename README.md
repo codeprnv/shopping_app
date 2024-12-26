@@ -28,11 +28,7 @@ To get started with the project, follow the steps below:
     ```bash
     flutter run
 
-
-
-
 ## Folder Structure
-
 
 - **`main.dart`**: The entry point of the application, where the app is initialized.
 - **`models/`**: Contains the data models used throughout the app, such as the `Product` and `Cart` models.
@@ -45,8 +41,16 @@ To get started with the project, follow the steps below:
 ## Screenshots
 
 1. **HomePage:**
-   ![HomePage](screenshots/homepage.png)
+   <br><br>
+   <img src="screenshots/homepage.png" width="250" />
+   <br><br>
+   
 2. **Details Page:**
-    ![DetailsPage](screenshots/detailsPage.png)
+   <br><br>
+   <img src="screenshots/detailsPage.png" width="250" />
+   <br><br>
+   
 3. **Cart's Page:**
-    ![CartsPage](screenshots/cartPage.png)
+   <br><br>
+   <img src="screenshots/cartPage.png" width="250" />
+   <br><br>
